@@ -1,6 +1,6 @@
 # Peoples List and details
 
-Show peoples list form Rest API and show list of peoples
+Show peoples list form Rest API and
 onclick show complete details of user with profile image
 
 Also initial page has Search option to filter user by name
