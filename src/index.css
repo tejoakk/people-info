@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+
+a {
+  color: #ea3546;
+  text-decoration: none;
+}
+
+section {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1.5rem;
+}
+
+section h1 {
+  font-size: 3rem;
+  color: #5635ea;
+}
+
+.post h2 {
+  font-size: 2.5rem;
+  color: #ea3546;
+}
+
+.post-excerpt {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.post-excerpt:first-of-type {
+  padding-top: 0;
+}
+
+.post-excerpt h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.comment {
+  background: #f0f0f0;
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+}
+
+.details {
+   font-size: 2.5rem;
+  color: blue;
+}
